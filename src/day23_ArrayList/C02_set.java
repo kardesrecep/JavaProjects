@@ -26,6 +26,9 @@ public class C02_set {
         eskiUrunler.add(silinenUrun);
         System.out.println("urunler listesi : " + urunler);
         System.out.println("eski urunler listesi : " + eskiUrunler);
+
+
+
         yeniUrun="Kahve";
         silinecekUrun="Cay";
         temp=urunler.indexOf(silinecekUrun);
