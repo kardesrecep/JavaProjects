@@ -172,7 +172,8 @@ public class Fp01 {
 
     }
 
-        //10) Ters sıralama ile tekrarsız ve 5'ten büyük elemanların yarı değerlerini(elamanın ikiye bölüm sonucunu) bulan bir method oluşturun.
+        //10) Ters sıralama ile tekrarsız ve 5'ten büyük elemanların yarı
+    // değerlerini(elamanın ikiye bölüm sonucunu) bulan bir method oluşturun.
 
     public static void getTersSiralamaylaTekrarsizElemanlarinYarisi(List<Integer> list){
 
